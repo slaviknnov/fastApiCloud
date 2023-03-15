@@ -20,3 +20,8 @@ paths:
       x-yc-apigateway-integration:
         type: cloud-functions
         function_id: ******r858ui6i7n4pjv
+  /openapi.json:
+    get:
+      x-yc-apigateway-integration:
+        type: cloud-functions
+        function_id: ******r858ui6i7n4pjv
